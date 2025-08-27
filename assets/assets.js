@@ -90,8 +90,8 @@ export const workData = [
         link:"https://saas-ai-murex.vercel.app/"
     },
     {
-        title: 'Photography site',
-        description: 'Web Design',
+        title: 'Ai-agent',
+        description: 'Ai-agent',
         bgImage: '/ai-agent.png',
         link:"https://github.com/subhashhunter/ai-agent/"
     }
