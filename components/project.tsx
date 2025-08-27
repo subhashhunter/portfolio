@@ -34,7 +34,6 @@ export const Project=()=>{
         </a>
       </div>
     ))}
-
 </div>
         </div>
     )
