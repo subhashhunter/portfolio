@@ -34,4 +34,8 @@ Email: subhash56190@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/subhash-kumar-973b53293/
 
+<<<<<<< HEAD
 GitHub: https://github.com/subhashhunter
+=======
+GitHub: https://github.com/subhashhunte
+>>>>>>> 4b189c8719a9c80a967950fd8f6f4e44afa96a14
