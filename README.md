@@ -32,6 +32,6 @@ I am actively seeking freelance opportunities and collaborations. Feel free to r
 
 Email: subhash56190@gmail.com
 
-LinkedIn: [Your LinkedIn Profile URL]
+LinkedIn: https://www.linkedin.com/in/subhash-kumar-973b53293/
 
-GitHub: [Your GitHub Profile URL]
+GitHub: https://github.com/subhashhunte
