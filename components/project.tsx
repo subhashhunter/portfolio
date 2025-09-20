@@ -11,15 +11,18 @@ export const Project=()=>{
             </h2>
             <p className="text-center max-w-3xl mx-auto mt-5 mb-12">
                 Welcome to my full stack portfolio! Explore a collection of projects
-                showcasing my expertise in full-stack devlopment
+                showcasing my expertise in full-stack development
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 my-10 gap-5">
       {workData.map((work, index) => (
-      <div key={index} className="project-card bg-white p-4 rounded-xl shadow-md hover:shadow-lg transition">
+      <div 
+        key={index} 
+        className="project-card bg-white p-4 rounded-xl shadow-md hover:shadow-lg hover:-translate-y-1 transition-transform duration-300"
+      >
         <img
           src={work.bgImage}
-          alt={work.title}
-          className="w-full h-64 object-cover rounded-md"
+          alt={`${work.title}: ${work.description}`}
+          className="w-full aspect-video object-cover rounded-md"
         />
         <h3 className="text-xl font-bold mt-2">{work.title}</h3>
         <p className="text-gray-600 mb-2">{work.description}</p>

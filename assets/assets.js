@@ -79,19 +79,19 @@ export const assets = {
 export const workData = [
     {
         title: 'Full stack project',
-        description: 'Web Design',
+        description: 'Developed a dynamic and secure messaging application using Next.js. Users can authenticate and communicate in real-time while their identity remains completely private',
         bgImage: '/mystry_message.png',
-        link:"https://vercel.com/subhashs-projects-805a561a/mystry-message-vu2e/5DW3WBHNfQxHXjF4T42ej6G28C4j "
+        link:"https://mystry-message-vu2e-fwlo59u5h-subhashs-projects-805a561a.vercel.app/"
     },
     {
         title: 'saas app',
-        description: 'Mobile App',
+        description: "Built a scalable SaaS platform with a focus on user experience and monetizable features. The application utilizes a powerful AI model to deliver a unique service, complete with a subscription-based payment system",
         bgImage: '/saas.png',
         link:"https://saas-ai-murex.vercel.app/"
     },
     {
         title: 'Ai-agent',
-        description: 'Ai-agent',
+        description:"Created an intelligent AI agent designed for specific tasks. This project highlights skills in integrating external APIs, handling complex data, and building a conversational interface.",
         bgImage: '/ai-agent.png',
         link:"https://github.com/subhashhunter/ai-agent/"
     }

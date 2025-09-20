@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+🚀 Full-Stack Web Developer Portfolio
+Hello, I'm Subhash, a passionate and self-driven Full-Stack Web Developer specializing in modern web technologies like Next.js, Node.js, and AI integration. I focus on building scalable, secure, and user-centric applications that solve real-world problems.
 
-First, run the development server:
+🛠️ Key Skills
+Frontend: Next.js, React.js, Tailwind CSS
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Backend: Node.js, Express.js
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Database: MongoDB, PostgreSQL
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Tools: Git, CI/CD, Vercel, Docker
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+💼 Featured Projects
+1. Anonymous Messaging Platform
+Description: A dynamic and secure messaging application where users can communicate in real-time while their identity remains completely private. This project highlights my skills in secure authentication and building anonymous, real-time communication platforms.
 
-## Learn More
+View Live: https://mystry-message-vu2e-fwlo59u5h-subhashs-projects-805a561a.vercel.app/
 
-To learn more about Next.js, take a look at the following resources:
+2. AI-Powered SaaS App
+Description: A scalable SaaS platform with a focus on user experience and monetizable features. The application leverages a powerful AI model to deliver a unique service, complete with a subscription-based payment system.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+View Live: https://saas-ai-murex.vercel.app/
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+3. AI Agent
+Description: An intelligent AI agent designed for specific tasks. This project highlights my skills in integrating external APIs, handling complex data, and building a conversational interface.
 
-## Deploy on Vercel
+View Code: https://github.com/subhashhunter/ai-agent/
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+📫 Let's Connect
+I am actively seeking freelance opportunities and collaborations. Feel free to reach out to me for your next project.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Email: subhash56190@gmail.com
+
+LinkedIn: [Your LinkedIn Profile URL]
+
+GitHub: [Your GitHub Profile URL]
