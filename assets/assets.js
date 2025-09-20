@@ -91,7 +91,7 @@ export const workData = [
     },
     {
         title: 'Ai-agent',
-        description:"Created an intelligent AI agent designed for specific tasks. This project highlights skills in integrating external APIs, handling complex data, and building a conversational interface.",
+        description:"A smart ticket management system that uses AI to automatically categorize, prioritize, and assign support tickets to the most appropriate moderators.",
         bgImage: '/ai-agent.png',
         link:"https://github.com/subhashhunter/ai-agent/"
     }

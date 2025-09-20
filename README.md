@@ -23,7 +23,7 @@ Description: A scalable SaaS platform with a focus on user experience and moneti
 View Live: https://saas-ai-murex.vercel.app/
 
 3. AI Agent
-Description: An intelligent AI agent designed for specific tasks. This project highlights my skills in integrating external APIs, handling complex data, and building a conversational interface.
+Description: A smart ticket management system that uses AI to automatically categorize, prioritize, and assign support tickets to the most appropriate moderators.
 
 View Code: https://github.com/subhashhunter/ai-agent/
 
@@ -32,6 +32,6 @@ I am actively seeking freelance opportunities and collaborations. Feel free to r
 
 Email: subhash56190@gmail.com
 
-LinkedIn: [Your LinkedIn Profile URL]
+LinkedIn: https://www.linkedin.com/in/subhash-kumar-973b53293/
 
-GitHub: [Your GitHub Profile URL]
+GitHub: https://github.com/subhashhunter
