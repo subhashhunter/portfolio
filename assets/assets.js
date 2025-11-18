@@ -77,24 +77,26 @@ export const assets = {
 };
 
 export const workData = [
+
+      {
+        title:"Social Media Web App",
+        description:"A full-stack social networking platform with features like authentication, real-time messaging, posts,  likes, connections, and user discovery. Built using React, Redux Toolkit, Clerk Auth, Node.js, MongoDB, and SSE for real-time updates.",
+        bgImage:"/socail-media.png",
+        link:"https://social-media-ten-murex.vercel.app/"
+      },
     {
         title: 'Full stack project',
         description: 'Developed a dynamic and secure messaging application using Next.js. Users can authenticate and communicate in real-time while their identity remains completely private',
         bgImage: '/mystry_message.png',
-        link:"https://mystry-message-vu2e-fwlo59u5h-subhashs-projects-805a561a.vercel.app/"
+        link:"https://mystry-message-8vi3.vercel.app/"
     },
     {
         title: 'saas app',
         description: "Built a scalable SaaS platform with a focus on user experience and monetizable features. The application utilizes a powerful AI model to deliver a unique service, complete with a subscription-based payment system",
         bgImage: '/saas.png',
         link:"https://saas-ai-murex.vercel.app/"
-    },
-    {
-        title: 'Ai-agent',
-        description:"A smart ticket management system that uses AI to automatically categorize, prioritize, and assign support tickets to the most appropriate moderators.",
-        bgImage: '/ai-agent.png',
-        link:"https://github.com/subhashhunter/ai-agent/"
     }
+  
     
 ]
 

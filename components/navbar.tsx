@@ -33,7 +33,7 @@ export const Navbar = () => {
         </ul>
         <div className="flex items-center gap-4">
           <button>
-            {/* <Image src="" alt="Theme toggle" /> */}
+           
           </button>
           <a href="#contact" className="hidden lg:flex items-center px-12 py-2 border border-gray-500 rounded-full ml-4 gap-3">
             Contact
