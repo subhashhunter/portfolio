@@ -15,7 +15,7 @@ import logo from './logo.png';
 import logo_dark from './logo_dark.png';
 import mail_icon from './mail_icon.png';
 import mail_icon_dark from './mail_icon_dark.png';
-import profile_img from './profile-img.png';
+import profile_img from './profile.jpg';
 import download_icon from './download-icon.png';
 import hand_icon from './hand-icon.png';
 import header_bg_color from './header-bg-color.png';
@@ -77,6 +77,12 @@ export const assets = {
 };
 
 export const workData = [
+   {
+        title: 'Multi-Feature AI Productivity Application',
+        description:'A full-stack AI-powered web application that offers multiple intelligent tools in one platform. The app enables users to generate articles and blog titles, create AI-generated images, remove backgrounds and unwanted objects from images, and review PDF resumes with detailed AI feedback.',
+        bgImage: '/MultiBot.png',
+        link:"https://multi-bot-blond.vercel.app/"
+    },
 
       {
         title:"Social Media Web App",
@@ -84,18 +90,8 @@ export const workData = [
         bgImage:"/socail-media.png",
         link:"https://social-media-ten-murex.vercel.app/"
       },
-    {
-        title: 'Full stack project',
-        description: 'Developed a dynamic and secure messaging application using Next.js. Users can authenticate and communicate in real-time while their identity remains completely private',
-        bgImage: '/mystry_message.png',
-        link:"https://mystry-message-8vi3.vercel.app/"
-    },
-    {
-        title: 'saas app',
-        description: "Built a scalable SaaS platform with a focus on user experience and monetizable features. The application utilizes a powerful AI model to deliver a unique service, complete with a subscription-based payment system",
-        bgImage: '/saas.png',
-        link:"https://saas-ai-murex.vercel.app/"
-    }
+    
+    
   
     
 ]

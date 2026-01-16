@@ -7,9 +7,9 @@ export const About=()=>{
             <h4 className="text-center mb-2 text-lg">Introduction</h4>
             <h2 className="text-center text-5xl">About me</h2>
             <div className="flex w-full flex-col lg:flex-row items-center gap-20 my-20">
-                <div className="w-64 rounded-3xl sm:w-80 max-w-none">
-                    <Image src={assets.user_image} alt="user"className="w-full rounded-full"/>
-                </div>
+                {/* <div className="w-64 rounded-3xl sm:w-80 max-w-none">
+                    <Image src={""} alt="user"className="w-full rounded-full"/>
+                </div> */}
                 <div>
                    <p>
                         👋 Hi! I'm Subhash — a self-driven full-stack developer with a focus on React, Next.js, Tailwind CSS, Node.js, and PostgreSQL.
